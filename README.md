@@ -801,6 +801,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 - [mailbox.org](https://mailbox.org/) - Paid email, calendar and office suite based in Germany, with built-in PGP encryption and no ads.
 - [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
 - [Mailfence](https://mailfence.com) - Secure and private email.
+- [Secria Mail](https://secria.me/mail/) - Encrypted email that replaces Gmail or Outlook, sealing stored mail and mail between users with a hybrid ML-KEM-1024 and X25519 key exchange, with apps for web, iOS and Android.
 
 ### Self-Hosted
 - [Docker mail server](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
